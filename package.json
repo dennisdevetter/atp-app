@@ -1,0 +1,26 @@
+{
+  "name": "atp-app",
+  "version": "1.0.0",
+  "description": "App about tennis professionals",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dennisdevetter/atp-app.git"
+  },
+  "keywords": [
+    "tennis",
+    "WTA",
+    "ATP",
+    "women",
+    "men"
+  ],
+  "author": "Dennis De Vetter",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/dennisdevetter/atp-app/issues"
+  },
+  "homepage": "https://github.com/dennisdevetter/atp-app#readme"
+}
