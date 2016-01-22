@@ -1,0 +1,19 @@
+{
+  "name": "atp-app",
+  "version": "1.0.0",
+  "description": "Hosting app for the client",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dennisdevetter/atp-app.git"
+  },  
+  "author": "Dennis De Vetter",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/dennisdevetter/atp-app/issues"
+  },
+  "homepage": "https://github.com/dennisdevetter/atp-app#readme"
+}
